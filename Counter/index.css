@@ -1,0 +1,12 @@
+.card {
+    margin: auto;
+    transform: translateY(-80%);
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card p {
+    text-align: center;
+}
